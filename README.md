@@ -18,13 +18,16 @@ Creating a Virtual Machine (VM) on **Microsoft Azure** for your **GitHub project
 ### **Step 1: Log in to Azure Portal**
 1. Go to [Azure Portal](https://portal.azure.com/).
 2. Sign in with your **Microsoft account**.
+   
 ![Screenshot 2025-04-02 at 10 29 49 am](https://github.com/user-attachments/assets/31743760-9715-49c9-9ce6-77c07463608a)
 
 ---
 
 ### **Step 2: Create a New Virtual Machine**
-1. In the **Azure Portal**, click on **"Virtual Machines"** from the left menu.
-2. Click **"Create"** → **"Azure Virtual Machine"**.
+In the **Azure Portal**, click on **"Virtual Machines"** from the left menu.
+1. Click **"Create"** →
+2. **"Azure Virtual Machine"**.
+   
 ![Screenshot 2025-04-02 at 11 23 40 am](https://github.com/user-attachments/assets/4933de61-9204-4f1d-933e-6d45ee446957)
 
 ---
